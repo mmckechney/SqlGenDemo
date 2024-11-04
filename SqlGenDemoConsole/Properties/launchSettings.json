@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlGenDemoConsole": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
