@@ -1,0 +1,8 @@
+-- Inserting the sample data  
+INSERT INTO tidwotsk (Work_Order, Work_Date, E_Code)  
+VALUES   
+('WO001', '2023-01-10', 'E001'),  
+('WO002', '2023-02-15', 'E002'),  
+('WO003', '2023-03-20', 'E003'),  
+('WO004', '2023-04-25', 'E004'),  
+('WO005', '2023-05-30', 'E005');  

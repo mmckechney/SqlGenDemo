@@ -1,0 +1,8 @@
+-- Inserting the sample data  
+INSERT INTO tidechdr (Facility, Unit, E_Code, Eq_Component_Tag, Equipment_Name, Equipment_Status, Equip_Status_Date)  
+VALUES   
+('Susquehanna', 1, 'E001', 'EQ1234', 'Pump', 'Active', '2023-01-01'),  
+('Three Mile Island', 2, 'E002', 'EQ5678', 'Valve', 'Inactive', '2023-02-01'),  
+('Peach Bottom', 3, 'E003', 'EQ9101', 'Generator', 'Active', '2023-03-01'),  
+('Limerick', 4, 'E004', 'EQ1121', 'Transformer', 'Inactive', '2023-04-01'),  
+('Salem', 5, 'E005', 'EQ3141', 'Compressor', 'Active', '2023-05-01');  
